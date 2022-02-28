@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SampleSuite">
+	<test name="Temperature">
+<parameter name="city" value="Jaipur"></parameter>
+<!-- <parameter name="city" value="Jaipur" parameter> -->
+		<classes>
+			<class name="ndtv.Temperature_Param"></class>
+		</classes>
+	</test>
+</suite>
