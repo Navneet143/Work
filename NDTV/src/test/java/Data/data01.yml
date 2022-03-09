@@ -1,5 +1,5 @@
 site: "https://www.ndtv.com/"
-version: "97"
+version: "98"
 xpath:
    main_menu: "//a[@id=\"h_sub_menu\"]"
    weather: "//a[text()=\"WEATHER\"]"
